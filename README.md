@@ -1,5 +1,5 @@
 # DataBoard
-First intermediate project for the Programming 2 course @ unipi
+First intermediate project for the Programming 2 course [@Unipisa](https://github.com/Unipisa)
 
 DataBoard is a container of generic objects that extend the Data data type. 
 Intuitively, the collection acts as a space for storing and displaying data which can be of various types 
